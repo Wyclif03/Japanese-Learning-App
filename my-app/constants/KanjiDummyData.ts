@@ -1,0 +1,22 @@
+export const kanjiDummyData = [
+    { kanji: "一", english: "one" },
+    { kanji: "二", english: "two" },
+    { kanji: "三", english: "three" },
+    { kanji: "四", english: "four" },
+    { kanji: "五", english: "five" },
+    { kanji: "六", english: "six" },
+    { kanji: "七", english: "seven" },
+    { kanji: "八", english: "eight" },
+    { kanji: "九", english: "nine" },
+    { kanji: "十", english: "ten" },
+    { kanji: "百", english: "hundred" },
+    { kanji: "千", english: "thousand" },
+    { kanji: "万", english: "ten thousand" },
+    { kanji: "円", english: "yen" },
+    { kanji: "日", english: "day" },
+    { kanji: "月", english: "month" },
+    { kanji: "火", english: "fire" },
+    { kanji: "水", english: "water" },
+    { kanji: "木", english: "tree" },
+    { kanji: "金", english: "gold" }
+  ];
